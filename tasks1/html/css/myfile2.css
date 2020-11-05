@@ -1,0 +1,64 @@
+.image img{
+	width: 150px;
+	height: 150px;
+
+
+}
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 30%;
+  display: inline-block;
+  
+
+}
+button{
+	position: relative;
+	left: 200px;
+	bottom: 40px;
+	background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.button1{
+	border-radius: 50px;
+}
+.button2{
+	border-radius: 50px;
+}
+.button3{
+	border-radius: 50px;
+}
+.button4{
+	border-radius: 50px;
+}
+.button5{
+	border-radius: 50px;
+}
+.card2{
+	
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 60%;
+  display: inline-block;
+  
+}
+ul.a{
+	line-height: 1.6;
+}
+ul.b{
+	line-height: 1.6;
+}
+p.c{ 
+	line-height: 1.6;
+ }
+ /* For mobile phones: */
+[class*="col-"] {
+  width: 100%;
+}
+
+
